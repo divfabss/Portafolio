@@ -1,0 +1,56 @@
+#aboutme {
+    background-image: url('/Recursos/section1.jpg');
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#section{
+    background-image: url('/Recursos/section3.jpg');
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#Proy{
+    background-image: url('/Recursos/section3.jpg');
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#Footer{
+    background-image: url('/Recursos/section3.jpg');
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+ text-align: center;
+ color: white;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ padding-block-end:20px ;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+.card-img-top {
+    width: 300px;
+  }
+.progress{
+    color: blue;
+}
+h3{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+h6{
+    text-align: start;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
